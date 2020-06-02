@@ -8,3 +8,5 @@ Steps
 - SELECT name FROM orders_item WHERE name LIKE '%' UNION SELECT first_name FROM auth_user WHERE first_name LIKE '%'
 - Search for "z' UNION SELECT first_name FROM auth_user WHERE first_name LIKE '"
 
+Adding a test line. Just for learning reasons.
+
